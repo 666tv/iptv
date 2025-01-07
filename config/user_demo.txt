@@ -38,7 +38,6 @@ CCTV16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$!
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$!
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8$!
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$!
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8$!
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$!
@@ -199,16 +198,10 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$!
 
 🇨🇳　港·澳·台　👉_9527,#genre#
-TVBS
 TVBS亚洲
-TVBS欢乐
-ELTA娱乐
 凤凰资讯
 凤凰中文
 香港卫视
-无线翡翠
-无线星河
-千禧经典
 澳门莲花
 民视
 中视
@@ -225,14 +218,7 @@ ELTA娱乐
 纬来体育
 纬来育乐
 环球电视
-新视觉
-時尚台FTV
 CNA新闻
-NHK新闻
-俄罗斯频
-韩国新闻
-半岛新闻
-日语新闻
 
 🇨🇳　体育频道　👉,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!

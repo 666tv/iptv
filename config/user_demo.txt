@@ -198,10 +198,10 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$!
 
 🇨🇳　港·澳·台　👉_8000,#genre#
+TVBS亚洲
 中国环球
 环球电视
 CNA新闻
-TVBS亚洲
 香港卫视
 凤凰资讯
 凤凰中文
@@ -218,6 +218,11 @@ TVBS亚洲
 中天娱乐
 纬来育乐
 纬来体育
+AXS TV Now
+
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$!
+LoveNature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8$!
+LoveNature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8$!
 
 🇨🇳　体育频道　👉,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!
@@ -266,6 +271,52 @@ TVBS亚洲
 咪咕直播43
 咪咕直播44
 咪咕直播45
+
+🇨🇳　iHOT　👉,#genre#
+iHOT爱电竞
+iHOT爱谍战
+iHOT爱动漫
+iHOT爱都市
+iHOT爱怀旧
+iHOT爱经典
+iHOT爱科幻
+iHOT爱科学
+iHOT爱浪漫
+iHOT爱历史
+iHOT爱旅行
+iHOT爱奇谈
+iHOT爱青春
+iHOT爱赛车
+iHOT爱体育
+iHOT爱玩具
+iHOT爱喜剧
+iHOT爱悬疑
+iHOT爱幼教
+iHOT爱院线
+
+🇨🇳　NewTV　👉,#genre#
+NewTV超级电视剧
+NewTV超级电影
+NewTV超级综艺
+NewTV超级体育
+NewTV精品综合
+NewTV精品大剧
+NewTV精品体育
+NewTV精品纪录
+NewTV精品萌宠
+NewTV明星大片
+NewTV金牌综艺
+NewTV中国功夫
+NewTV武博世界
+NewTV古装剧场
+NewTV欢乐剧场
+NewTV家庭剧场
+NewTV潮妈辣婆
+NewTV东北热剧
+NewTV惊悚悬疑
+NewTV军旅剧场
+NewTV军事评论
+NewTV炫舞未来
 
 🇨🇳　历年春晚　👉,#genre#
 春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8$!

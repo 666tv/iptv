@@ -197,7 +197,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$!
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$!
 
-🇨🇳　港·澳·台　👉_8000,#genre#
+🇨🇳港·澳·台·全👉_8000,#genre#
 AXS TV Now
 LoveNature
 中國環球
@@ -208,6 +208,7 @@ CNA新闻
 凤凰中文
 澳门莲花
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$!
+TVBS新闻
 TVBS亚洲
 华视
 台视
@@ -221,9 +222,30 @@ TVBS亚洲
 中天娱乐
 纬来育乐
 纬来体育
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8$!
+俄罗斯频
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8$!
+法国时尚
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8$!
+泰国ASTV
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8$!
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8$!
+半岛新闻
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8$!
+朝鲜新闻
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$!
+韩国新闻
+韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8$!
+韩国国防
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$!
+日语新闻
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$!
+动物频道
 
 🇨🇳　体育频道　👉,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8$!
+红牛运动
 咪咕直播1
 咪咕直播2
 咪咕直播3

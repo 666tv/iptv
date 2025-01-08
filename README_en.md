@@ -111,11 +111,11 @@
 - Interface source:
 
 ```bash
-https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 ```
 
 ```bash
-https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 ```
 
 or
@@ -131,7 +131,7 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
 - Data source:
 
 ```bash
-https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
 ```
 
 or

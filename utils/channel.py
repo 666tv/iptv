@@ -197,10 +197,9 @@ def get_channel_multicast_name_region_type_result(result, names):
     """
     name_region_type_result = {}
     for name in names:
-        format_name = format_channel_name(name)
-        data = result.get(format_name)
+        data = result.get(name)
         if data:
-            name_region_type_result[format_name] = data
+            name_region_type_result[name] = data
     return name_region_type_result
 
 
@@ -537,7 +536,7 @@ def append_total_data(
                     )
                     print(f"{method.capitalize()}:", len(name_results), end=", ")
             print(
-                "total:",
+                "Total:",
                 len(data.get(cate, {}).get(name, [])),
             )
     if config.open_keep_all:
@@ -562,7 +561,7 @@ def append_total_data(
                     )
                     print(name, f"{method.capitalize()}:", len(urls), end=", ")
                     print(
-                        "total:",
+                        "Total:",
                         len(data.get(cate, {}).get(name, [])),
                     )
 

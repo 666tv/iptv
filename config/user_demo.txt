@@ -198,14 +198,17 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$!
 
 🇨🇳　港·澳·台　👉_8000,#genre#
-TVBS亚洲
-中国环球
+AXS TV Now
+LoveNature
+中國環球
 环球电视
 CNA新闻
 香港卫视
 凤凰资讯
 凤凰中文
 澳门莲花
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$!
+TVBS亚洲
 华视
 台视
 中视
@@ -218,11 +221,6 @@ CNA新闻
 中天娱乐
 纬来育乐
 纬来体育
-AXS TV Now
-
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$!
-LoveNature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8$!
-LoveNature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8$!
 
 🇨🇳　体育频道　👉,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!

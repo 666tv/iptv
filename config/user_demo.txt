@@ -198,27 +198,26 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$!
 
 🇨🇳　港·澳·台　👉_8000,#genre#
-TVBS亚洲
-凤凰资讯
-凤凰中文
-香港卫视
-澳门莲花
-民视
-中视
-华视
-台视
-民视新闻
-中视新闻
-中天新闻
-中天娱乐
-三立新闻
-三立都会
-东森新闻
-非凡新闻
-纬来体育
-纬来育乐
+中国环球
 环球电视
 CNA新闻
+TVBS亚洲
+香港卫视
+凤凰资讯
+凤凰中文
+澳门莲花
+华视
+台视
+中视
+民视
+民视新闻
+三立新闻
+东森新闻
+非凡新闻
+中天新闻
+中天娱乐
+纬来育乐
+纬来体育
 
 🇨🇳　体育频道　👉,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!

@@ -201,7 +201,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 红牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8$!
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8$!
-红牛RedBull
+红牛极限运动
 咪咕直播1
 咪咕直播2
 咪咕直播3

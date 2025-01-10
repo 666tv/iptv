@@ -281,6 +281,7 @@ NewTv精品纪录
 NewTv精品萌宠
 NewTv明星大片
 NewTv金牌综艺
+NewTv动作电影
 NewTv中国功夫
 NewTv武博世界
 NewTv古装剧场

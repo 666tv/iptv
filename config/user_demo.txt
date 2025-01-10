@@ -199,8 +199,8 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 
 🇨🇳　体育频道　👉,#genre#
 红牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!
-红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8$!
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8$!
+红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8$!
 红牛极限运动
 咪咕直播1
 咪咕直播2
@@ -348,6 +348,16 @@ NewTv炫舞未来
 启航2024 CCTV跨年晚会,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8$!
 
 🇨🇳　S级　👉,#genre#
+周星驰
+刘德华
+李连杰
+成龙
+甑子丹
+任达华
+梁家辉
+沈腾
+徐锦江
+单立文
 杨思敏
 叶玉卿
 叶子楣
@@ -368,13 +378,3 @@ NewTv炫舞未来
 楪カレン
 相沢みなみ—
 桃乃木香奈
-周星驰
-刘德华
-李连杰
-成龙
-甑子丹
-任达华
-梁家辉
-沈腾
-徐锦江
-单立文

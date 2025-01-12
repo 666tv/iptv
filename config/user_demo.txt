@@ -1,4 +1,4 @@
-🇨🇳央视˙ɪᴘᴠ⁶,#genre#
+🇨🇳央视·ɪᴘᴠ⁶,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -86,7 +86,7 @@ CCTV-16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$!
 CCTV-17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$!
 
-🇨🇳卫视˙ɪᴘᴠ⁶,#genre#
+🇨🇳卫视·ɪᴘᴠ⁶,#genre#
 北京卫视
 天津卫视
 东方卫视
@@ -197,7 +197,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$!
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$!
 
-🇨🇳文体˙ɪᴘᴠ⁶,#genre#
+🇨🇳文体·ɪᴘᴠ⁶,#genre#
 红牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8$!
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8$!
@@ -225,7 +225,7 @@ JJ斗地主
 睛彩羽毛球
 睛彩广场舞
 
-🇨🇳咪咕˙ɪᴘᴠ⁶,#genre#
+🇨🇳咪咕·ɪᴘᴠ⁶,#genre#
 咪咕直播-1
 咪咕直播-2
 咪咕直播-3
@@ -284,7 +284,7 @@ JJ斗地主
 咪咕直播4K-1
 咪咕直播4K-2
 
-🇨🇳iHoT˙ɪᴘᴠ⁶,#genre#
+🇨🇳iHoT·ɪᴘᴠ⁶,#genre#
 iHoT爱院线
 iHoT爱喜剧
 iHoT爱悬疑
@@ -306,7 +306,7 @@ iHoT爱赛车
 iHoT爱科学
 iHoT爱旅行
 
-🇨🇳NewTv˙ɪᴘᴠ⁶,#genre#
+🇨🇳NewTv·ɪᴘᴠ⁶,#genre#
 NewTv超级电视剧
 NewTv超级电影
 NewTv超级综艺

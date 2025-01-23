@@ -114,6 +114,7 @@ CCTV-17
 🇨🇳　CGTN,#genre#
 CGTN
 CGTN记录
+CGTN英语
 CGTN俄语
 CGTN法语
 CGTN阿拉伯语
